@@ -4,5 +4,5 @@
 # 💡 Interests: AI & Machine Learning, NLP, Quantitative Finance, Fintech
 # 🛠️ Python • R • MATLAB • SQL • Git
 # 🌐 Connect with me
- 📫 LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/jayamini-hewawasam-a51932116)
+## 📫 LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/jayamini-hewawasam-a51932116)
 
