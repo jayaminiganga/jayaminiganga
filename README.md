@@ -1,3 +1,8 @@
+<div style="background-color:#282C34; padding:20px; border-radius:10px;">
+  <h1 style="color:white;">Hello, I'm Jayamini!</h1>
+  <p style="color:white;">Welcome to my GitHub profile.</p>
+</div>
+
 ## Hi there 👋 I’m Jayamini Hewawasam, 
 ### 🎓 Final-year Master’s student in Statistical Data Analytics @ Tampere University
 ### 💼 Former banker turned data enthusiast — 10 years’ experience in Retail & Corporate Banking, Compliance, Risk Control, Fraud Prevention, Credit Products, and Customer Service Excellence
