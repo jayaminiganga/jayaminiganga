@@ -7,6 +7,7 @@
 ### 🚀 Featured Projects  
 
 📊 [**Quantitative Finance**](https://github.com/jayaminiganga/Quantitative-Finance) 
+📊 [**AgriNLP Chatbot**](https://github.com/jayaminiganga/AgriNLP-Chatbot.git)
 
 
 
