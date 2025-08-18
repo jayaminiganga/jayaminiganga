@@ -10,6 +10,8 @@
 
 📊 [**AgriNLP Chatbot**](https://github.com/jayaminiganga/AgriNLP-Chatbot.git)
 
+📊 [**Group Recommender Systems**](https://github.com/jayaminiganga/Group-Recommender-Systems.git)
+
 
 
 
