@@ -12,6 +12,8 @@
 
 📊 [**Group Recommender Systems**](https://github.com/jayaminiganga/Group-Recommender-Systems.git)
 
+📊 [**Scalable Business Contact Scraping Pipeline**](https://github.com/jayaminiganga/Scalable-Business-Contact-Scraping-Pipeline.git)
+
 
 
 
